@@ -1,0 +1,12 @@
+C:\Tests\RabbitMQTest\RabbitMQ.Service\bin\Debug\net6.0\RabbitMQ.Service.deps.json
+C:\Tests\RabbitMQTest\RabbitMQ.Service\bin\Debug\net6.0\RabbitMQ.Service.dll
+C:\Tests\RabbitMQTest\RabbitMQ.Service\bin\Debug\net6.0\RabbitMQ.Service.pdb
+C:\Tests\RabbitMQTest\RabbitMQ.Service\obj\Debug\net6.0\RabbitMQ.Service.csproj.AssemblyReference.cache
+C:\Tests\RabbitMQTest\RabbitMQ.Service\obj\Debug\net6.0\RabbitMQ.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tests\RabbitMQTest\RabbitMQ.Service\obj\Debug\net6.0\RabbitMQ.Service.AssemblyInfoInputs.cache
+C:\Tests\RabbitMQTest\RabbitMQ.Service\obj\Debug\net6.0\RabbitMQ.Service.AssemblyInfo.cs
+C:\Tests\RabbitMQTest\RabbitMQ.Service\obj\Debug\net6.0\RabbitMQ.Service.csproj.CoreCompileInputs.cache
+C:\Tests\RabbitMQTest\RabbitMQ.Service\obj\Debug\net6.0\RabbitMQ.Service.dll
+C:\Tests\RabbitMQTest\RabbitMQ.Service\obj\Debug\net6.0\refint\RabbitMQ.Service.dll
+C:\Tests\RabbitMQTest\RabbitMQ.Service\obj\Debug\net6.0\RabbitMQ.Service.pdb
+C:\Tests\RabbitMQTest\RabbitMQ.Service\obj\Debug\net6.0\ref\RabbitMQ.Service.dll
